@@ -1,2 +1,1 @@
-# video-grapher
-#Bootstap 4  Practice & Using SASS, jquery
+# Bootstap 4  Practice & Using SASS, jquery
